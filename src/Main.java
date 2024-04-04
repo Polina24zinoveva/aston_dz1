@@ -20,7 +20,7 @@ public class Main {
         System.out.println(myLinkedList.get(1));
         System.out.println();
 
-        //remode
+        //remove
 //        myLinkedList.remove(1);
 //        System.out.println(myLinkedList.print());
 
