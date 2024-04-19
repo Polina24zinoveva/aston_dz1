@@ -65,5 +65,8 @@ public class Main {
         MyLinkedList.myBubbleSortStatic(myLinkedList4);
         System.out.println(myLinkedList4.print());
         System.out.println();
+
+
+
     }
 }
